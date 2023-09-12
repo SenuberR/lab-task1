@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+
+
+.man{
+    width: max-content;
+    height: 400px;
+    border: 2px solid rgb(177, 177, 177);
+    border-radius: 1px;
+    margin: 20px 0px 0px 20px;
+}
+
+.jhon{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 16px;
+}
+
+.work{
+    font-weight: 300;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-top: 16px;
+}
+
+.woman{
+    width: max-content;
+    height: 400px;
+    border: 2px solid rgb(177, 177, 177);
+    border-radius: 1px;
+    margin: 20px 0px 0px 20px;
+}
+
+
+.jane{
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 16px;
+}
+
+.designer{
+    font-weight: 300;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-top: 16px;
+}
